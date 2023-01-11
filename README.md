@@ -13,3 +13,5 @@ our dataset consists of tweets belonging to two groups of users:
 
 We collect tweets between 15 Jan 2020 and 26 Mar 2021. We use Twitter API to collect their timelines i.e. most recent 3,200 tweets. We use the user’s timeline posts up to the first hate tweet for analysis (only users with at least 100 tweets). For control users, we sample such a date from a normal distribution having mean and variance of first hate posts of Hate data.
 
+Hate and Control dataset are published on [Kaggle](https://www.kaggle.com/datasets/hdsmrd/twitter-hate-speech-dataset).
+
