@@ -10,5 +10,6 @@ our dataset consists of tweets belonging to two groups of users:
 
 (2) *control* group who either posted general ideas about COVID-19 and China/Asians or posted counter hate speech to support Asians
 
+
 We collect tweets between 15 Jan 2020 and 26 Mar 2021. We use Twitter API to collect their timelines i.e. most recent 3,200 tweets. We use the user’s timeline posts up to the first hate tweet for analysis (only users with at least 100 tweets). For control users, we sample such a date from a normal distribution having mean and variance of first hate posts of Hate data.
 
