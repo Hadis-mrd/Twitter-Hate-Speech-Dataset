@@ -1,7 +1,8 @@
 # Twitter-Hate-Speech-Dataset
-# Important Note: All of the User IDs Are Anonymized. No Personal Info Is Disclosed in the Datasets Publicized Here.
 
-In this repo, we release the *Hate Speech Dataset* used in our paper *Hate speech on online social media through the lens of language and behavior: Analysis and prediction*. 
+**Important Note: All of the User IDs Are Anonymized. No Personal Info Is Disclosed in the Datasets Publicized Here.**
+
+In this repository, we release the *Hate Speech Dataset* used in our paper *Hate speech on online social media through the lens of language and behavior: Analysis and prediction*. 
 
 our dataset consists of tweets belonging to two groups of users: 
 (1) *hate* group who  posted content promoting hate speech targeted towards Anti-Asian Hate during the COVID-19 Crisis
